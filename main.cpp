@@ -1,4 +1,7 @@
 #include "Student.h"
+#include <string>
+#include <stdio.h>
+#include <iostream>
 
 int main() {
   Student s("Peter", "Cooper", 1859, Major::EE);
